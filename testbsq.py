@@ -35,3 +35,4 @@ median_sqrt_hashes = statistics.median(sqrt_hashes)
 print("Minimum biggest square dimensions in an iteration:", sqrt_min_hashes)
 print("Maximum biggest square dimensions in an iteration:", sqrt_max_hashes)
 print("Median of biggest square dimensions:", median_sqrt_hashes)
+
